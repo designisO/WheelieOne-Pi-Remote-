@@ -1,9 +1,17 @@
 # WheelieOne-Pi-Remote-
-Remote Control for the WheelieOne Pi Robot Car
 
 <img src="https://github.com/designisO/WheelieOne-Pi-Remote-/blob/main/FftBXQEXoAEkAhE%20(1).jpg"/>
 
-### PySimpleGUI Built IN Commands
+
+### Overview:
+Remote Control for the WheelieOne Pi Robot Car using PySimpleGUI. The goal was to create a remote control for the raspberry pi robot car. While doing so, I was able to learn about the PySimpleGUI built in commands.
+
+
+
+
+
+
+### PySimpleGUI Built IN Commands:
 
 - psgmain
 - psghelp
